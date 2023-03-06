@@ -105,3 +105,10 @@ a {
     color-scheme: dark;
   }
 }
+
+@font-face {
+  font-family: "Voyage";
+  src: url("/voyage-regular-webfont.woff") format("woff"),
+       url("/voyage-regular-webfont.woff2") format("woff2"),
+       url("/Voyage-Regular.ttf") format("ttf");
+}
